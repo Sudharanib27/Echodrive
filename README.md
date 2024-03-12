@@ -27,7 +27,7 @@ Integrating the accelerometer functionality proved to be the most challenging as
 - [@Sudarshan](https://github.com/sudarsh177)
 - [@Pranay](https://github.com/pranaytelukuntla)
 - [@SuryaTeja](https://github.com/SuryaTeja-N)
-- [@Sudha]
+- [@Sudha](https://github.com/Sudharanib27)
 - [@Sripadh]
 
 
@@ -61,5 +61,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Feedback
 
-If you have any feedback, please reach out to us at sudarshan121212@gmail.com
+If you have any feedback, please reach out to us at sudarshan121212@gmail.com, https://github.com/Sudharanib27
 
